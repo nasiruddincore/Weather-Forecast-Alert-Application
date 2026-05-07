@@ -1,0 +1,14 @@
+{
+    "main": {
+        "temp": 44,
+        "humidity": 90
+    },
+    "weather": [
+        {
+            "main": "Rain"
+        }
+    ],
+    "wind": {
+        "speed": 18
+    }
+}
